@@ -5,7 +5,7 @@ Email: niravjoshi87@gmail.com
 File: js
 */
 
-function init_plugin() {
+function init_plugins() {
 
     $(function() {
         "use strict";
